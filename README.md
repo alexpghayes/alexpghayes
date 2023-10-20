@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-I'm a PhD student in the University of Wisconsin-Madison statistics program. My github is a mixture of research code, #rstats ✨ contributions, and personal data analysis projects. I write long-form explainers on my blog, https://www.alexpghayes.com/. At the moment most of my energy goes to research.
+I'm a PhD candidate in the University of Wisconsin-Madison statistics program. My github is a mixture of research code, #rstats ✨ contributions, and personal data analysis projects. I write long-form explainers on my blog, https://www.alexpghayes.com/.
 
 ## Research software 
 
@@ -12,16 +12,9 @@ I'm a PhD student in the University of Wisconsin-Madison statistics program. My 
 
 - [`fastRG`](https://rohelab.github.io/fastRG/) samples random-dot product graphs much faster than naive sampling procedures and is especially useful when running simulation studies. See [the paper](https://arxiv.org/abs/1703.02998) for a description of the `fastRG` core algorithm.
 
-
 ## #rstats
 
 I am involved in a number of open source projects in the `tidyverse` and `tidymodels` orbits. I previously maintained the [`broom`](https://broom.tidymodels.org/) package, which currently has ~6 million downloads, and for my contributions am an author on the tidyverse paper. I intermittently participate in the Stan and ROpenSci communities as well.
-
-## Slides
-
-- [The Low Hanging Fruit of the Twitter Following Graph](https://github.com/alexpghayes/JSM2021), 2021-08-11 JSM 2021
-- [The linear probability model](https://github.com/alexpghayes/linear-probability-model)
-- [misc presentations](https://github.com/alexpghayes/workshops_presentations)
 
 ## Teaching materials
 
@@ -38,6 +31,8 @@ I am involved in a number of open source projects in the `tidyverse` and `tidymo
 - you want to collaborate on a research project, or
 - you want to write an explainer together.
 
-Outside of R, I'm a proficient Python user, and can pull together enough SQL, C++, Julia, and PySpark to get things done.
+Outside of R, I'm a proficient Python user, and can pull together enough SQL, C++, and Julia to get things done.
 
-I am responsive on Twitter at [@alexpghayes](https://twitter.com/alexpghayes) and via email. Last updated 2022-02-10.
+I am responsive via email.
+
+Last updated 2023-10-20.
